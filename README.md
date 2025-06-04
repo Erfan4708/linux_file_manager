@@ -10,8 +10,7 @@ A simple and interactive bash script to manage and organize files in a directory
 * Remove a file (searches all subdirectories)
 * Show file details (type, size, metadata)
 * Move a file into its own directory
-* Compatible with Linux and macOS
-
+  
 ---
 
 ##  Directory Structure
